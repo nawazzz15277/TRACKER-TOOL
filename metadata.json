@@ -1,0 +1,6 @@
+{
+  "name": "LifeOS - Digital Equilibrium",
+  "description": "A comprehensive personal productivity, health, habits, and goals dashboard designed with Corporate Modern aesthetic and warm equilibrium.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
